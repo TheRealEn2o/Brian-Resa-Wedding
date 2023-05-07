@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Libre+Baskerville");
+
+.bgimg1 {
+    background-image: url("./pictures/main_pic.png");
+}
+
+.opening {
+    font-family: 'Libre Baskerville';
+    font-size: 64px;
+}
+
+.pageContent {
+    background-image: url(./pictures/bg2.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
